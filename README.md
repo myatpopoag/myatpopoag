@@ -10,4 +10,4 @@ I am a Tech Enthusiastic with a passion for creating innovative solutions. I spe
 
 ### Contact Me
 
-- [LinkedIn](https://linkedin.com/in/myatpopoag)
+- [LinkedIn](https://linkedin.com/in/myatpopoaung)
