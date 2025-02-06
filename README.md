@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Myat Po Po Aung @Audrey.</h1>
-<h3 align="center">I am a Tech Enthusiastic with a passion for creating innovative solutions. I specialize in UI Development and enjoy working with modern technologies.</h3>
+<h2 align="left">Hi 👋, I'm Myat Po Po Aung @Audrey.</h2>
+<h4 align="left">I am a Tech Enthusiastic with a passion for creating innovative solutions. I specialize in UI Development and enjoy working with modern technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myatpopoag&label=Profile%20views&color=0e75b6&style=flat" alt="myatpopoag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myatpopoag" alt="myatpopoag" /></a> </p>
 
 - 🔭 I’m currently working as **UX/UI Designer**
 
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myatpopoag&show_icons=true&locale=en&layout=compact" alt="myatpopoag" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myatpopoag&show_icons=true&locale=en" alt="myatpopoag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myatpopoag&" alt="myatpopoag" /></p>
